@@ -22,8 +22,8 @@
 }
 
 .about img {
-  width: 340px;
-  height: 400px;
+  width: 450px;
+  height: 500px;
 }
 
 .container h2 {
@@ -32,4 +32,12 @@
 
 .container h2:hover {
   text-decoration: underline 2px solid var(--green);
+}
+
+@media only screen and (max-width: 600px) {
+  /*Big smartphones [426px -> 600px]*/
+  .about img {
+    width: 360px;
+    height: 400px;
+  }
 }
