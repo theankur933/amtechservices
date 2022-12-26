@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Archivo Narrow", sans-serif;
+  font-family: "Dosis", sans-serif;
 }
 
 :root {
@@ -14,7 +14,8 @@
 }
 
 .navbar-expand-lg .navbar-nav {
-  gap: 15px;
+  gap: 10px;
+  font-size: 20px;
 }
 
 .carousel-item img {
