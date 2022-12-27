@@ -9,6 +9,10 @@
   --green: #008000;
 }
 
+img {
+  object-fit: cover;
+}
+
 .nav-item a:hover {
   border-bottom: 1px solid var(--green);
 }
