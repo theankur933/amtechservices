@@ -35,6 +35,12 @@
   text-decoration: underline 2px solid var(--green);
 }
 
+.profile h3 small {
+  font-size: 15px;
+  font-weight: bold;
+  color: var(--green);
+}
+
 @media only screen and (max-width: 600px) {
   /*Big smartphones [426px -> 600px]*/
   .about img {
