@@ -36,7 +36,7 @@
   text-decoration: underline 2px solid var(--green);
 }
 
-.profile h3 span {
+.profile h3 small {
   font-size: 15px;
   font-weight: bold;
   color: var(--green);
