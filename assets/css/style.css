@@ -52,4 +52,7 @@ a .btn-outline-success{
     width: 360px;
     height: 400px;
   }
+  .carousel-item img {
+    height: 230px;
+  }
 }
