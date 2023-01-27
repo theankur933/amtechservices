@@ -56,13 +56,13 @@ a .btn-outline-success {
   padding: 5px 30px;
 }
 
-.card {
+.card-body {
   box-shadow: 0px 8px 10px rgb(0 0 0 / 14%), 0px 3px 14px rgb(0 0 0 / 12%),
     0px 5px 5px rgb(0 0 0 / 20%);
   transition: 0.3s linear;
 }
 
-.card:hover {
+.card-body:hover {
   transform: translateY(-10px);
 }
 
