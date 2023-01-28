@@ -78,6 +78,9 @@ footer p {
 
 footer p span {
   font-weight: bold;
+}
+
+footer p span:hover {
   border-bottom: 1px solid var(--white);
 }
 
